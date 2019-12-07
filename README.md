@@ -6,7 +6,10 @@ Info Here
 Instructions here
 ### Installing
 Installation stuff here
+### Running Stamper
+Explanation here
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg3MDM2NTI1LDE1MTExNTIyMiw1NzQ2MT
-EyMjFdfQ==
+eyJoaXN0b3J5IjpbLTE0MTExMjA0MDQsMTUxMTE1MjIyLDU3ND
+YxMTIyMV19
 -->
