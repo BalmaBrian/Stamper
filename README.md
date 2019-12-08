@@ -11,9 +11,13 @@ sudo add-apt-repository ppa:openscad/releases
 ```
 2. apt-get the update and then upgrade
 ```bash
-sudo apt-g
+sudo apt-get update
+sudo apt-get upgrade
 ```
-
+3. Install OpenSCad
+```bash
+sudo apt-get install openscad
+```
 
 ### Running Stamper
 Explanation here
@@ -27,6 +31,6 @@ List here
 ### Acknowledgments
 List here
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NjAyOTkzMiwxNDk1ODA5OTU1LDE1MT
+eyJoaXN0b3J5IjpbMTAxMzM4NTYyNywxNDk1ODA5OTU1LDE1MT
 ExNTIyMiw1NzQ2MTEyMjFdfQ==
 -->
