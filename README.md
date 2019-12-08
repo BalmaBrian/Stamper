@@ -30,7 +30,7 @@ Once you clone the repository there will be a python file called `ImageManipulat
 ```bash
 $ python3 ImageManipulation.py
 ```
-After you run that the resulting process 
+After you run that the resulting output should look cool! If there is an error then make sure you have OpenSCad installed and or you are using Python 3.
 
 ### Running Stamper
 
@@ -43,6 +43,6 @@ List here
 ### Acknowledgments
 List here
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIyMjQ0Mzk1LDE0OTU4MDk5NTUsMTUxMT
-E1MjIyLDU3NDYxMTIyMV19
+eyJoaXN0b3J5IjpbLTEyMjkzNTE0NjksMTQ5NTgwOTk1NSwxNT
+ExMTUyMjIsNTc0NjExMjIxXX0=
 -->
