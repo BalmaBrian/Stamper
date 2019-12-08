@@ -36,7 +36,7 @@ def setFiles():
         for letter in getPath:
             if letter != '\n':
                 path += letter
-        getpath2 = 'FilesIn/' + str(i) + '.png'
+        getpath2 = 'OpenSCadScripts/FilesIn/' + str(i) + '.png'
         for letter in getpath2:
             if letter != '\n':
                 path2 += letter
