@@ -40,7 +40,7 @@ $ python3 main.py
 The output stl files will be in the `FilesOut/` Directory.
 
 ### Built with
-List here
+- [OpenSCad](https://www.openscad.org/]
 
 ### Authors
 List here
@@ -48,6 +48,6 @@ List here
 ### Acknowledgments
 List here
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4OTc4MDQ4OCwxNDk1ODA5OTU1LDE1MT
-ExNTIyMiw1NzQ2MTEyMjFdfQ==
+eyJoaXN0b3J5IjpbMjQwMTMzNjgzLDE0OTU4MDk5NTUsMTUxMT
+E1MjIyLDU3NDYxMTIyMV19
 -->
