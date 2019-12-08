@@ -26,7 +26,7 @@ sudo apt-get remove --autoremove openscad
 ```
 
 ### Testing Stamper
-Once you clone the repository there will be a python file called `ImageManipulation.py`. Run the python
+Once you clone the repository there will be a python file called `ImageManipulation.py`. Run the `python3` command with the destination being the test file and the resulting output will be stored in a directory called T
 
 ### Running Stamper
 
@@ -39,6 +39,6 @@ List here
 ### Acknowledgments
 List here
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MjIwNjYyNiwxNDk1ODA5OTU1LDE1MT
+eyJoaXN0b3J5IjpbLTQ1NDI1Mzg5NywxNDk1ODA5OTU1LDE1MT
 ExNTIyMiw1NzQ2MTEyMjFdfQ==
 -->
