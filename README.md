@@ -41,14 +41,14 @@ The output stl files will be in the `FilesOut/` Directory.
 
 ### Built with
 - [OpenSCad](https://www.openscad.org/) - The Programmers Solid 3D Modeller
-- [Python 3]()
+- [Python 3](https://www.python.org/) - Programming Language
 
 ### Authors
-List here
+- Brian Almaguer
+- My Sanity
+- 
 
-### Acknowledgments
-List here
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY3MzMyNzEzLDE0OTU4MDk5NTUsMTUxMT
-E1MjIyLDU3NDYxMTIyMV19
+eyJoaXN0b3J5IjpbLTkxNjYwNDUwMCwxNDk1ODA5OTU1LDE1MT
+ExNTIyMiw1NzQ2MTEyMjFdfQ==
 -->
