@@ -24,5 +24,8 @@ for i in range(file_count):
     makeScript(i)
 
 for i in range(file_count):
+    print('processing file ' + str(i + 1) + ' of ' + str(file_count))
     stlName = str(i) + '.stl'
     call(['openscad', '-o', stlName, 'OpenSCadScripts/0.scad'])
+    call(['mv', stlName, 'FilesOut/'])
+print('Completed')

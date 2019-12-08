@@ -42,4 +42,4 @@ def setFiles():
                 path2 += letter
         i += 1
         black_and_white_dithering(path, path2)
-    print('done')
+    print('All images changed to black and white\nNow Processing STL Files:')
