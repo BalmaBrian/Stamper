@@ -30,7 +30,4 @@ if __name__ == '__main__':
     black_and_white('TestImages/MH.png', 'TestOutput/MH_BK.png')
     black_and_white_dithering('TestImages/MH.png', 'TestOutput/MH_BK_dithering.png')
 
-    black_and_white("TestImages/Rejected.png", "TestOutput/Rejected_BW.png")
-    black_and_white_dithering("TestImages/Rejected.png", "TestOutput/Rejected_BW_dithering.png")
-
     print('done')
