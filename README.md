@@ -25,8 +25,10 @@ sudo apt-get install openscad
 sudo apt-get remove --autoremove openscad
 ```
 
+### Testing Stamper
+Once you copy the repository there will be 
+
 ### Running Stamper
-Explanation here
 
 ### Built with
 List here
@@ -37,6 +39,6 @@ List here
 ### Acknowledgments
 List here
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNTM4NTA5MCwxNDk1ODA5OTU1LDE1MT
-ExNTIyMiw1NzQ2MTEyMjFdfQ==
+eyJoaXN0b3J5IjpbLTEzNTkzMzE1NDksMTQ5NTgwOTk1NSwxNT
+ExMTUyMjIsNTc0NjExMjIxXX0=
 -->
