@@ -33,7 +33,7 @@ $ python3 ImageManipulation.py
 After you run that the resulting output should look cool! If there is an error then make sure you have OpenSCad installed and or you are using Python 3.
 
 ### Running Stamper
-To run stamper put any small 300x300 png or jpeg file in the folder `TurnsFilesB&W/` and run the python command:
+To run stamper put any small 300x300 png or jpeg file in the directory `TurnsFilesB&W/` and run the python command:
 ```bash
 $ python3 main.py
 ```
@@ -48,6 +48,6 @@ List here
 ### Acknowledgments
 List here
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNDQ2MTAyMSwxNDk1ODA5OTU1LDE1MT
+eyJoaXN0b3J5IjpbLTk4OTc4MDQ4OCwxNDk1ODA5OTU1LDE1MT
 ExNTIyMiw1NzQ2MTEyMjFdfQ==
 -->
