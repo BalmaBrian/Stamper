@@ -46,9 +46,10 @@ The output stl files will be in the `FilesOut/` Directory.
 ### Authors
 - Brian Almaguer
 - My Sanity
-- 
+- Jesus
+- Coding Gods
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNjYwNDUwMCwxNDk1ODA5OTU1LDE1MT
+eyJoaXN0b3J5IjpbMjEwODI2NDYwMiwxNDk1ODA5OTU1LDE1MT
 ExNTIyMiw1NzQ2MTEyMjFdfQ==
 -->
