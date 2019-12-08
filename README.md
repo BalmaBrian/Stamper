@@ -19,6 +19,12 @@ sudo apt-get upgrade
 sudo apt-get install openscad
 ```
 
+### Uninstalling OpenSCad on Ubuntu 18.04
+1. Run the following command
+```bash
+sudo apt-get remove --autoremove openscad
+```
+
 ### Running Stamper
 Explanation here
 
@@ -31,6 +37,6 @@ List here
 ### Acknowledgments
 List here
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMzM4NTYyNywxNDk1ODA5OTU1LDE1MT
+eyJoaXN0b3J5IjpbMTcxNTM4NTA5MCwxNDk1ODA5OTU1LDE1MT
 ExNTIyMiw1NzQ2MTEyMjFdfQ==
 -->
