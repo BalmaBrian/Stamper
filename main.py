@@ -6,8 +6,8 @@ if len(os.listdir('TurnFilesB&W')) != 0:
     IM.setFiles()
 
 def makeScript(name):
-    String1 = 'scale([.1, .1, 0.1])\n\tsurface(file = \"'
-    String2 = '\", center = true, invert = true);'
+    String1 = 'scale([.1, .1, 0.06])\n\tsurface(file = \"'
+    String2 = '\", center = true, invert = false);'
     nameFile = 'OpenSCadScripts/' + str(name) + '.scad'
     file = open(nameFile, 'w')
     file.write(String1)
@@ -26,6 +26,7 @@ for i in range(file_count):
 for i in range(file_count):
     print('processing file ' + str(i + 1) + ' of ' + str(file_count))
     stlName = str(i) + '.stl'
-    call(['openscad', '-o', stlName, 'OpenSCadScripts/0.scad'])
+    stlNamePath = 'OpenSCadScripts/' + str(i) + '.scad'
+    call(['openscad', '-o', stlName, stlNamePath])
     call(['mv', stlName, 'FilesOut/'])
 print('Completed')
