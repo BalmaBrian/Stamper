@@ -3,11 +3,14 @@ Stamper is a program that makes stamp stl's files for 3D printing. Simply give t
 ## Getting Started
 The first thing you need is a linux system or a linux VM. The software used is Python 3 and OpenSCad.
 
-### Installing OpenSCad for Ubuntu 18.04
-T
+### Installing OpenSCad for Ubuntu 18.04 - [Tutorial Here](http://ubuntuhandbook.org/index.php/2019/01/install-openscad-ubuntu-18-10-18-04/)
+Open terminal either via **Ctrl+Alt+T** keyboard shortcut or from software launcher.
+When it opens, paste following command and run to add the PPA:
 ```bash
 sudo add-apt-repository ppa:openscad/releases
 ```
+
+
 
 ### Running Stamper
 Explanation here
@@ -21,6 +24,6 @@ List here
 ### Acknowledgments
 List here
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMTIxMzMwOSwxNDk1ODA5OTU1LDE1MT
-ExNTIyMiw1NzQ2MTEyMjFdfQ==
+eyJoaXN0b3J5IjpbMzMzMzQxODk5LDE0OTU4MDk5NTUsMTUxMT
+E1MjIyLDU3NDYxMTIyMV19
 -->
