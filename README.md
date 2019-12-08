@@ -16,17 +16,21 @@ sudo apt-get upgrade
 ```
 3. Install OpenSCad
 ```bash
-sudo apt-get install openscad
+$ sudo apt-get install openscad
 ```
 
 ### Uninstalling OpenSCad on Ubuntu 18.04
 1. Run the following command
 ```bash
-sudo apt-get remove --autoremove openscad
+$ sudo apt-get remove --autoremove openscad
 ```
 
 ### Testing Stamper
-Once you clone the repository there will be a python file called `ImageManipulation.py`. Run the `python3` command with the destination being the test file and the resulting output will be stored in a directory called T
+Once you clone the repository there will be a python file called `ImageManipulation.py`. Run the `python3` command with the destination being the test file and the resulting output will be stored in a directory called `TestOutput/`.
+```bash
+$ python3 ImageManipulation.py
+```
+After you run that the resulting process 
 
 ### Running Stamper
 
@@ -39,6 +43,6 @@ List here
 ### Acknowledgments
 List here
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NDI1Mzg5NywxNDk1ODA5OTU1LDE1MT
-ExNTIyMiw1NzQ2MTEyMjFdfQ==
+eyJoaXN0b3J5IjpbODIyMjQ0Mzk1LDE0OTU4MDk5NTUsMTUxMT
+E1MjIyLDU3NDYxMTIyMV19
 -->
