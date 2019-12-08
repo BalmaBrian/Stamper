@@ -35,7 +35,9 @@ After you run that the resulting output should look cool! If there is an error t
 ### Running Stamper
 To run stamper put any small 300x300 png or jpeg file in the folder `TurnsFilesB&W/` and run the python command:
 ```bash
-$ python3
+$ python3 main.py
+```
+The output stl files will be in the `FilesOut/` Directory.
 
 ### Built with
 List here
@@ -46,6 +48,6 @@ List here
 ### Acknowledgments
 List here
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUwODUxNTQxLDE0OTU4MDk5NTUsMTUxMT
-E1MjIyLDU3NDYxMTIyMV19
+eyJoaXN0b3J5IjpbMTkxNDQ2MTAyMSwxNDk1ODA5OTU1LDE1MT
+ExNTIyMiw1NzQ2MTEyMjFdfQ==
 -->
