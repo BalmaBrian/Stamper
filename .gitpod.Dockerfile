@@ -2,7 +2,7 @@ FROM gitpod/workspace-full
 
 USER gitpod
 
-RUN sudo pip install pil \
+RUN pip3 install pil \
     sudo add-apt-repository ppa:openscad/releases
 
 # Install custom tools, runtime, etc. using apt-get
