@@ -4,7 +4,7 @@ Stamper is a program that makes stamp stl's files for 3D printing. Simply give t
 [![Run on Repl.it](https://repl.it/badge/github/BalmaBrian/Stamper)](https://repl.it/github/BalmaBrian/Stamper)
 
 ## Getting Started
-The first thing you need is a linux system or a linux VM. The software used is Python 3 and OpenSCad.
+The first thing you need is a linux system or a linux VM. The software used is Python 3 and OpenSCad. Testing for running the code in Repl.it is in the process.
 
 ### Installing OpenSCad for Ubuntu 18.04 - [Tutorial Here](http://ubuntuhandbook.org/index.php/2019/01/install-openscad-ubuntu-18-10-18-04/)
 1. Open terminal either via **Ctrl+Alt+T** keyboard shortcut or from software launcher.
