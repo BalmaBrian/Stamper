@@ -2,7 +2,7 @@ FROM gitpod/workspace-full
 
 USER gitpod
 
-RUN sudo apt-get install pip3 -y \
+RUN sudo apt install pip3 -y \
     sudo pip3 install pil -y \
     sudo add-apt-repository ppa:openscad/releases -y \
     sudo apt-get update -y \
