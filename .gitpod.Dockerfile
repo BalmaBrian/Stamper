@@ -2,7 +2,8 @@ FROM gitpod/workspace-full
 
 USER gitpod
 
-RUN sudo pip install pil
+RUN sudo pip install pil \
+    sudo add-apt-repository ppa:openscad/releases
 
 # Install custom tools, runtime, etc. using apt-get
 # For example, the command below would install "bastet" - a command line tetris clone:
