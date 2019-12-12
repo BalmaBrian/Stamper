@@ -1,5 +1,8 @@
 # Stamper - PNG to STL Maker
 Stamper is a program that makes stamp stl's files for 3D printing. Simply give the program a black and white png file and it will make a stl file you can throw at a slicer and 3D print.
+
+[![Run on Repl.it](https://repl.it/badge/github/BalmaBrian/Stamper)](https://repl.it/github/BalmaBrian/Stamper)
+
 ## Getting Started
 The first thing you need is a linux system or a linux VM. The software used is Python 3 and OpenSCad.
 
