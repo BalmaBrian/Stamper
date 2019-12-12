@@ -2,7 +2,7 @@ FROM gitpod/workspace-full
 
 USER gitpod
 
-RUN sudo apt -y install pip3
+RUN sudo pip install pil
 
 # Install custom tools, runtime, etc. using apt-get
 # For example, the command below would install "bastet" - a command line tetris clone:
