@@ -1,2 +1,4 @@
-caterpillar.jpg
 MH.png
+Sac-State-logo.jpg
+caterpillar.jpg
+haru.png
